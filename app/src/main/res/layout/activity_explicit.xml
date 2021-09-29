@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".practical3.ExplicitActivity">
+
+
+    <TextView
+        android:textSize="24sp"
+        android:layout_marginBottom="12dp"
+        android:textStyle="bold"
+        android:text="Explicit Activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:paddingHorizontal="12dp"
+        android:gravity="center"
+        android:text="An explicit intent is one that you use to launch a specific app component, such as a particular activity or service in your app."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:paddingHorizontal="12dp"
+        android:gravity="center"
+        android:text="This activity is example of explicit intent."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

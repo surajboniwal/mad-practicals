@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MAD Practicals</string>
+    <string name="practical_1">Practical 1</string>
+    <string name="practical_2">Practical 2</string>
+    <string name="practical_3">Practical 3</string>
+    <string name="practical_4">Practical 4</string>
+    <string name="practical_5">Practical 5</string>
+    <string name="practical_6">Practical 6</string>
+    <string name="practical_7">Practical 7</string>
+    <string name="practical_8">Practical 8</string>
+    <string name="practical_9">Practical 9</string>
+    <string name="practical_10">Practical 10</string>
+    <string name="mad_practicals">MAD Practicals</string>
+</resources>

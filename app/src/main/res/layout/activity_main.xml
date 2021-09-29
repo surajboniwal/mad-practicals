@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/prac1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_1" />
+
+    <Button
+        android:id="@+id/prac2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_2" />
+
+    <Button
+        android:id="@+id/prac3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_3" />
+
+    <Button
+        android:id="@+id/prac4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_4" />
+
+    <Button
+        android:id="@+id/prac5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_5" />
+
+    <Button
+        android:id="@+id/prac6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_6" />
+
+    <Button
+        android:id="@+id/prac7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_7" />
+
+    <Button
+        android:id="@+id/prac8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_8" />
+
+    <Button
+        android:id="@+id/prac9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_9" />
+
+    <Button
+        android:id="@+id/prac10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/practical_10" />
+
+</LinearLayout>
